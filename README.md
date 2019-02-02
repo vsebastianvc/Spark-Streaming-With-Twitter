@@ -1,11 +1,8 @@
 # BigDataTechnologies
-Group 11
--Carlos Hernandez ID: 986636
--Sebastian Valencia ID: 986775
 
-##Spark Streaming Sentiment analysis from API twitter
+## Spark Streaming Sentiment analysis from API twitter
 
-#Prerequisites
+# Prerequisites
 Be sure that you already has installed the next programs in your Cloudera Centos 6
 -Kafka
 -kafka-server
