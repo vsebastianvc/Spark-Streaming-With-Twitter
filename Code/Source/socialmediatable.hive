@@ -1,0 +1,9 @@
+CREATE EXTERNAL TABLE socialmedia ( Key STRING,
+date STRING,
+company STRING,
+text STRING,
+analized STRING,
+quantity STRING
+) STORED BY 'org.apache.hadoop.hive.hbase.HBaseStorageHandler'
+WITH SERDEPROPERTIES ("hbase.columns.mapping" = ":key,family:date,family:company,family:text,family:analized,family:quantity")
+TBLPROPERTIES("hbase.table.name" = "socialmedia");
