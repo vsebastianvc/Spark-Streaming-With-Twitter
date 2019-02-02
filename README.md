@@ -59,8 +59,8 @@ Check the table socialmedia in HUE and that's all now we have the last tweets ab
 3) Press "refresh" button and now you are ready to present to your boss :)
 
 
-##Project Parts Details
-#PartI -> Covered with Kafka, SparkStreaming, Python and Hbase
-#PartII -> Covered with SparkSQL, Hive external table
-#PartIII -> Covered with PowerBI and Simba ODBC Driver
-#PartIV -> Covered with Kafka exposition during project presentation
+## Project Parts Details
+# PartI -> Covered with Kafka, SparkStreaming, Python and Hbase
+# PartII -> Covered with SparkSQL, Hive external table
+# PartIII -> Covered with PowerBI and Simba ODBC Driver
+# PartIV -> Covered with Kafka exposition during project presentation
