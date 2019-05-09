@@ -1,6 +1,4 @@
-# BigDataTechnologies
-
-## Spark Streaming Sentiment analysis from API twitter
+# Spark Streaming Sentiment analysis from API twitter
 
 # Prerequisites
 Be sure that you already has installed the next programs in your Cloudera Centos 6
